@@ -1,0 +1,27 @@
+{
+  "name": "afo-ratelimit",
+  "version": "0.1.1",
+  "description": "Function Rate Limiter",
+  "main": "index.js",
+  "scripts": {
+    "example": "node ./example/example.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zamnuts/afo-ratelimit.git"
+  },
+  "author": "Andrew Zammit",
+  "license": "BSD-3",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  },
+  "keywords": [
+    "function",
+    "rate",
+    "limit",
+    "limiter",
+    "time",
+    "queue"
+  ]
+}
